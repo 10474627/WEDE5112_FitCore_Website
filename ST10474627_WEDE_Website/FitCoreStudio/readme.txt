@@ -1,6 +1,6 @@
 Project Title:
 
-Local Fitness Company Website
+FitCoreStudio
 
 Description:
 
@@ -23,5 +23,6 @@ Simple navigation menu available on all pages.
 Separate HTML files for each section of the website.
 
 A dedicated section to display personal/company images (students can insert their own pictures into the <img> tags).
+
 
 Clean and minimal structure designed for easy readability.
