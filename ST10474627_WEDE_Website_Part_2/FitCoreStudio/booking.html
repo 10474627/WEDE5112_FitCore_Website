@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FitCore Studio - Booking</title>
+  <!-- Link to external stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>FitCore Studio</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="schedule.html">Schedule</a></li>
+          <li><a href="booking.html">Book a Class</a></li>
+          <li><a href="trainers.html">Trainers</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2>Book Your Class</h2>
+    <form>
+      <label for="name">Your Name:</label><br>
+      <input type="text" id="name" name="name" required><br><br>
+
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <label for="class">Select Class:</label><br>
+      <select id="class" name="class">
+        <option>Yoga</option>
+        <option>HIIT Workout</option>
+        <option>Pilates</option>
+        <option>Strength Training</option>
+        <option>Cardio Blast</option>
+      </select><br><br>
+
+      <label for="payment">Payment Method:</label><br>
+      <select id="payment" name="payment">
+        <option>Credit Card</option>
+        <option>PayPal</option>
+        <option>Bank Transfer</option>
+      </select><br><br>
+
+      <button type="submit" class="btn">Confirm Booking</button>
+    </form>
+
+    <h3>Our Training Area</h3>
+    <img src="images/gym1.jpg" alt="Booking Section Picture" width="500">
+  </main>
+
+  <footer>
+    <p>&copy; 2025 FitCore Studio | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
