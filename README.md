@@ -69,3 +69,32 @@ Improved Contact Page with Google Maps embed.
 Added consistent navigation bar across all pages.
 
 Added modern CSS styling for a dark theme + responsive design.
+
+
+W3Schools. (2025). HTML Tutorial. Retrieved from https://www.w3schools.com/html/
+
+A complete reference for HTML5 elements used in building webpages.
+
+W3Schools. (2025). CSS Tutorial. Retrieved from https://www.w3schools.com/css/
+
+Covers CSS styling, responsive layouts, and dark theme techniques.
+
+Mozilla Developer Network (MDN). (2025). HTML: HyperText Markup Language. Retrieved from https://developer.mozilla.org/en-US/docs/Web/HTML
+
+In-depth guide to semantic HTML elements, accessibility, and best practices.
+
+Mozilla Developer Network (MDN). (2025). CSS: Cascading Style Sheets. Retrieved from https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Detailed resource on styling, layout techniques, and modern CSS features.
+
+Nielsen Norman Group. (2023). Top 10 Guidelines for Homepage Usability. Retrieved from https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/
+
+Web usability principles that inspired the clean, user-friendly homepage design.
+
+Google Developers. (2024). Responsive Web Design Basics. Retrieved from https://developers.google.com/web/fundamentals/design-and-ux/responsive
+
+Guide to making websites mobile-friendly and adaptable across devices.
+
+IDEA FitnessConnect. (2024). Fitness Studio Marketing: Building an Online Presence. Retrieved from https://www.ideafit.com/fitness-library/
+
+Industry-specific reference for fitness studios on why online presence and booking systems are essential.
