@@ -1,20 +1,93 @@
 # WEDE5112_FitCore_Website
 
-FitCore Studio – Website Project
-Project Overview
+FitCoreStudio
 
-FitCore Studio is a modern, responsive website designed for a fitness center offering personal training, group classes, and online booking. The purpose of this project is to create a clean and user-friendly interface that allows members to easily explore services, view schedules, and register for classes.
+FitCore Studio is a multi-page website designed for a local fitness business. It showcases the studio’s services, trainers, schedules, and allows users to easily book classes online.
 
-This website demonstrates core web development principles, including HTML5, ensuring compatibility across devices and browsers.
+The project focuses on a clean, user-friendly interface built entirely with HTML and CSS (no external frameworks). It is designed to work smoothly across desktops, tablets, and smartphones.
 
 Key Features
 
-Home Page: Clear introduction to FitCore Studio and its mission.
+Home Page
 
-Class Schedule: Easy-to-read schedule for group classes and training sessions.
+Studio introduction, mission, and featured image.
 
-Online Booking: Button links to external scheduling or booking software.
+Quick access to booking.
 
-Responsive Design: Works seamlessly on desktops, tablets, and smartphones.
+Class Schedule
 
-Contact Section: Direct links for email inquiries and social media platforms.
+Easy-to-read weekly schedule table.
+
+Displays classes, trainers, and times.
+
+Online Booking
+
+Simple booking form for class selection.
+
+Includes payment method selection.
+
+Trainers Page
+
+Introduces trainers with profile pictures.
+
+Short bios outlining their expertise.
+
+Blog Page (New)
+
+Health & fitness tips.
+
+Blog-style layout with images and short articles.
+
+Contact Page
+
+Contact form (name, email, message).
+
+Studio address and embedded Google Map.
+
+Consistent Navigation (Updated)
+
+Top navigation bar across all pages.
+
+Links to Home, Schedule, Booking, Trainers, Blog, and Contact.
+
+Design Updates (New)
+
+Modern dark theme styling (via style.css).
+
+Responsive layout for better experience across devices.
+
+Card layouts for Blog and Trainers sections.
+
+Tech Stack
+
+HTML5 – Page structure.
+
+CSS3 – Styling, responsive design, and layout consistency.
+
+Current Pages
+
+index.html – Home Page
+
+schedule.html – Class Schedule
+
+booking.html – Booking Form
+
+trainers.html – Meet Our Trainers
+
+blog.html – Health & Fitness Blog
+
+contact.html – Contact Page
+
+Latest Updates Added:
+
+Added Blog Page with article cards.
+
+Added Trainers Page with trainer bios and images.
+
+Improved Booking Page with payment options.
+
+Improved Contact Page with Google Maps embed.
+
+Added consistent navigation bar across all pages.
+
+Added modern CSS styling for a dark theme + responsive design.
