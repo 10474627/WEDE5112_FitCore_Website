@@ -71,6 +71,9 @@ Added consistent navigation bar across all pages.
 Added modern CSS styling for a dark theme + responsive design.
 
 
+
+REFERENCES
+
 W3Schools. (2025). HTML Tutorial. Retrieved from https://www.w3schools.com/html/
 
 A complete reference for HTML5 elements used in building webpages.
