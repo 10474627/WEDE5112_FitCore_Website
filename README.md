@@ -9,55 +9,30 @@ The project focuses on a clean, user-friendly interface built entirely with HTML
 Key Features
 
 Home Page
-
 Studio introduction, mission, and featured image.
-
 Quick access to booking.
-
 Class Schedule
-
 Easy-to-read weekly schedule table.
-
 Displays classes, trainers, and times.
-
 Online Booking
-
 Simple booking form for class selection.
-
 Includes payment method selection.
-
 Trainers Page
-
 Introduces trainers with profile pictures.
-
 Short bios outlining their expertise.
-
 Blog Page (New)
-
 Health & fitness tips.
-
 Blog-style layout with images and short articles.
-
 Contact Page
-
 Contact form (name, email, message).
-
 Studio address and embedded Google Map.
-
 Consistent Navigation (Updated)
-
 Top navigation bar across all pages.
-
 Links to Home, Schedule, Booking, Trainers, Blog, and Contact.
-
 Design Updates (New)
-
 Modern dark theme styling (via style.css).
-
 Responsive layout for better experience across devices.
-
 Card layouts for Blog and Trainers sections.
-
 Tech Stack
 
 HTML5 – Page structure.
@@ -77,6 +52,9 @@ trainers.html – Meet Our Trainers
 blog.html – Health & Fitness Blog
 
 contact.html – Contact Page
+
+
+
 
 Latest Updates Added:
 
